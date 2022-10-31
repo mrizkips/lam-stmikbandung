@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap');
+
+body {
+    background-color: #f3f3f3;
+    font-family: 'Noto Sans', Arial, Helvetica, sans-serif;
+}
+
+.navbar-brand-logo {
+    height: 40px;
+}
+
+.footer {
+    background-color: #fff;
+    padding: .25rem 0;
+}
