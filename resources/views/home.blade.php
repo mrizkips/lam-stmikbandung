@@ -105,7 +105,7 @@
             <div class="row align-items-center">
                 <h5 class="col mb-0">Kriteria 9 - Luaran dan Capaian Tridharma</h5>
                 <div class="col-auto">
-                    <a href="https://drive.google.com/drive/folders/1FqbtsMWe6I5F7XIwoiGUh_KbE2wn-WUz?usp=share_link" class="btn btn-primary" target="_link">
+                    <a href="https://drive.google.com/drive/folders/19NoLP-slF0vATpEu4fC3FgAtDCaziOrA?usp=share_link" class="btn btn-primary" target="_link">
                         <i class="fa-solid fa-link"></i> Buka Link
                     </a>
                 </div>
