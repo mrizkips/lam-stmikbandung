@@ -140,7 +140,7 @@
         <div class="col-sm-6 col-lg-4 mb-3">
             <div class="card">
                 <div class="card-body">
-                    <h5 class="card-title">Kuisioner Tracer Study</h5>
+                    <h5 class="card-title">Kuesioner Tracer Study</h5>
                     <h6 class="card-subtitle mb-2 text-muted">Google Form</h6>
                     <a href="https://forms.gle/VJqRRkQjBKcGEXAs7" class="btn btn-primary" target="_link">
                         <i class="fa-solid fa-link"></i> Buka Link
@@ -154,6 +154,39 @@
                     <h5 class="card-title">Angket Evaluasi Pembelajaran</h5>
                     <h6 class="card-subtitle mb-2 text-muted">Google Form</h6>
                     <a href="https://docs.google.com/forms/d/e/1FAIpQLScYGXvpSTyUtxQppPDbVcU6kNQ1tnp-O7Z1HQ8zqLWmmpOUmA/viewform" class="btn btn-primary" target="_link">
+                        <i class="fa-solid fa-link"></i> Buka Link
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6 col-lg-4 mb-3">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Angket Kepuasan Mahasiswa Terhadap Pelayanan Akademik</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">Google Form</h6>
+                    <a href="https://forms.gle/h61iwiqD7WSZU9Yn8" class="btn btn-primary" target="_link">
+                        <i class="fa-solid fa-link"></i> Buka Link
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6 col-lg-4 mb-3">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Kuesioner Layanan Beasiswa STMIK Bandung</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">Google Form</h6>
+                    <a href="https://forms.gle/uEwSu4ZM4uWMv9yB7" class="btn btn-primary" target="_link">
+                        <i class="fa-solid fa-link"></i> Buka Link
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6 col-lg-4 mb-3">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Kuesioner Kepuasan Mahasiswa Terhadap Layanan Kemahasiswaan STMIK Bandung</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">Google Form</h6>
+                    <a href="https://forms.gle/MkL1iKfJxxwoSk2t8" class="btn btn-primary" target="_link">
                         <i class="fa-solid fa-link"></i> Buka Link
                     </a>
                 </div>
