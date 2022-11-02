@@ -534,7 +534,7 @@
                     <div class="col-sm-6 col-lg-4 mb-3">
                         <div class="card">
                             <div class="card-body">
-                                <h5 class="card-title">Kuisioner Evaluasi Pembelajaran Dosen</h5>
+                                <h5 class="card-title">Kuesioner Evaluasi Pembelajaran Dosen</h5>
                                 <h6 class="card-subtitle mb-3 text-muted">Evaluasi</h6>
                                 <dl>
                                     <dt class="text-primary">Keterangan:</dt>
@@ -551,7 +551,7 @@
                     <div class="col-sm-6 col-lg-4 mb-3">
                         <div class="card">
                             <div class="card-body">
-                                <h5 class="card-title">Kuisioner Sarana Pembelajaran</h5>
+                                <h5 class="card-title">Kuesioner Sarana Pembelajaran</h5>
                                 <h6 class="card-subtitle mb-3 text-muted">Evaluasi</h6>
                                 <dl>
                                     <dt class="text-primary">Keterangan:</dt>
@@ -802,7 +802,7 @@
                     <div class="col-sm-6 col-lg-4 mb-3">
                         <div class="card">
                             <div class="card-body">
-                                <h5 class="card-title">Kuisioner Layanan Akademik</h5>
+                                <h5 class="card-title">Kuesioner Layanan Akademik</h5>
                                 <h6 class="card-subtitle mb-3 text-muted">Evaluasi</h6>
                                 <dl>
                                     <dt class="text-primary">Keterangan:</dt>
@@ -819,7 +819,7 @@
                     <div class="col-sm-6 col-lg-4 mb-3">
                         <div class="card">
                             <div class="card-body">
-                                <h5 class="card-title">Kuisioner Layanan Kemahasiswaan</h5>
+                                <h5 class="card-title">Kuesioner Layanan Kemahasiswaan</h5>
                                 <h6 class="card-subtitle mb-3 text-muted">Evaluasi</h6>
                                 <dl>
                                     <dt class="text-primary">Keterangan:</dt>
@@ -836,7 +836,7 @@
                     <div class="col-sm-6 col-lg-4 mb-3">
                         <div class="card">
                             <div class="card-body">
-                                <h5 class="card-title">Kuisioner Layanan Beasiswa</h5>
+                                <h5 class="card-title">Kuesioner Layanan Beasiswa</h5>
                                 <h6 class="card-subtitle mb-3 text-muted">Evaluasi</h6>
                                 <dl>
                                     <dt class="text-primary">Keterangan:</dt>
@@ -1172,11 +1172,11 @@
                     <div class="col-sm-6 col-lg-4 mb-3">
                         <div class="card">
                             <div class="card-body">
-                                <h5 class="card-title">Kuisioner SDM</h5>
+                                <h5 class="card-title">Kuesioner SDM</h5>
                                 <h6 class="card-subtitle mb-3 text-muted">Evaluasi</h6>
                                 <dl>
                                     <dt class="text-primary">Keterangan:</dt>
-                                    <dd>Kuisioner mengenai Pengelolaan SDM</dd>
+                                    <dd>Kuesioner mengenai Pengelolaan SDM</dd>
                                     <dt class="text-primary">PIC:</dt>
                                     <dd>-</dd>
                                 </dl>
@@ -1475,7 +1475,7 @@
                     <div class="col-sm-6 col-lg-4 mb-3">
                         <div class="card">
                             <div class="card-body">
-                                <h5 class="card-title">Kuisioner Ketersediaan dan Akses Sarana dan Prasarana</h5>
+                                <h5 class="card-title">Kuesioner Ketersediaan dan Akses Sarana dan Prasarana</h5>
                                 <h6 class="card-subtitle mb-3 text-muted">Evaluasi</h6>
                                 <dl>
                                     <dt class="text-primary">Keterangan:</dt>
@@ -2083,7 +2083,7 @@
                     <div class="col-sm-6 col-lg-4 mb-3">
                         <div class="card">
                             <div class="card-body">
-                                <h5 class="card-title">Kuisioner Dosen terhadap pelaksanaan tatakelola penelitian</h5>
+                                <h5 class="card-title">Kuesioner Dosen terhadap pelaksanaan tatakelola penelitian</h5>
                                 <h6 class="card-subtitle mb-3 text-muted">Evaluasi</h6>
                                 <dl>
                                     <dt class="text-primary">Keterangan:</dt>
@@ -2100,7 +2100,7 @@
                     <div class="col-sm-6 col-lg-4 mb-3">
                         <div class="card">
                             <div class="card-body">
-                                <h5 class="card-title">Kuisioner pelaksanaan Penelitian</h5>
+                                <h5 class="card-title">Kuesioner pelaksanaan Penelitian</h5>
                                 <h6 class="card-subtitle mb-3 text-muted">Evaluasi</h6>
                                 <dl>
                                     <dt class="text-primary">Keterangan:</dt>
@@ -2368,7 +2368,7 @@
                     <div class="col-sm-6 col-lg-4 mb-3">
                         <div class="card">
                             <div class="card-body">
-                                <h5 class="card-title">Kuisioner Dosen terhadap pelaksanaan tatakelola PKM</h5>
+                                <h5 class="card-title">Kuesioner Dosen terhadap pelaksanaan tatakelola PKM</h5>
                                 <h6 class="card-subtitle mb-3 text-muted">Evaluasi</h6>
                                 <dl>
                                     <dt class="text-primary">Keterangan:</dt>
@@ -2385,7 +2385,7 @@
                     <div class="col-sm-6 col-lg-4 mb-3">
                         <div class="card">
                             <div class="card-body">
-                                <h5 class="card-title">Kuisioner pelaksanaan PKM</h5>
+                                <h5 class="card-title">Kuesioner pelaksanaan PKM</h5>
                                 <h6 class="card-subtitle mb-3 text-muted">Evaluasi</h6>
                                 <dl>
                                     <dt class="text-primary">Keterangan:</dt>
